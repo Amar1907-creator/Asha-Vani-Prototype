@@ -4,3 +4,7 @@
 Download the APK here:
 https://drive.google.com/file/d/1YkuSLdYbcxCoBLeoDpwe3p0HKuJNfb0I/view 
 
+## 🌐 Web Prototype (Lovable)
+
+Live demo:
+https://asha-vani-health-voice.lovable.app/
